@@ -26,11 +26,11 @@
       </tr>
       <tr>
         <td>GitHub</td>
-        <td>[GitHUb](https://github.com/prathmesh-jagtap)</td>
+        <td>(https://github.com/prathmesh-jagtap)</td>
       </tr>
       <tr>
         <td>LinkedIn</td>
-        <td>[LinkedIn](https://www.linkedin.com/in/prathmesh-jagtap-3a05b7194/)</td>
+        <td>(https://www.linkedin.com/in/prathmesh-jagtap-3a05b7194/)</td>
       </tr>
       <tr>
         <td>College</td>
