@@ -18,6 +18,26 @@
     <td>JSS Academy of Technical Education, Noida</td>
   </tr>
 </table>
+
+<table>
+      <tr>
+        <td>Name</td>
+        <td>Prathmesh Jagtap</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>[GitHUb](https://github.com/prathmesh-jagtap)</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>[LinkedIn](https://www.linkedin.com/in/prathmesh-jagtap-3a05b7194/)</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>-</td>
+      </tr>
+    </table>
+    
 <table>
       <tr>
         <td>Name</td>
